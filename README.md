@@ -7,3 +7,6 @@
 
 ## dumper.js
 このscriptは、URLの配列から数秒の間隔をあけてページを開き、内容を保存して閉じます。Webブラウザのconsoleにペーストして実行します。
+
+## extract.rb
+このscriptは、ダウンロードしたpixivFANBOXのHTMLから、記事本文を抽出し、MarkdownとRe:VIEW形式に変換したものをそれぞれ保存します。

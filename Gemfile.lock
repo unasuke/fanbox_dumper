@@ -1,14 +1,21 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    html2markdown (0.0.3)
+      nokogiri
+    md2review (1.12.1)
+      redcarpet (> 2.0.0)
     mini_portile2 (2.4.0)
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
+    redcarpet (3.5.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  html2markdown
+  md2review
   nokogiri
 
 BUNDLED WITH
