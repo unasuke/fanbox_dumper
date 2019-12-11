@@ -10,3 +10,6 @@
 
 ## extract.rb
 このscriptは、ダウンロードしたpixivFANBOXのHTMLから、記事本文を抽出し、MarkdownとRe:VIEW形式に変換したものをそれぞれ保存します。
+
+## adjust_appearance_text.rb
+このscriptは、テキスト形式の投稿をRe:VIEW形式に変換した結果を正規表現を用いて整形します。
