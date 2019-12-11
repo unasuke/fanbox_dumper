@@ -19,3 +19,6 @@
 
 ## concat_review.rb
 このscriptは、pixivFANBOXの投稿をRe:VIEW形式に変換したもの(日ごとに1ファイル)を月毎に連結し、見出しを付加して保存します。
+
+## label_formatter.rb
+このscriptは、Re:VIEW形式のテキストの見出しを1段階下げます。
