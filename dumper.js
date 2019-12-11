@@ -1,3 +1,5 @@
+// see also https://blog.mudatobunka.org/entry/2015/12/23/211425
+
 (function(window, document, location) {
   'use strict';
 

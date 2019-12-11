@@ -2,6 +2,11 @@
 
 このリポジトリでは、pixivFANBOXからRe:VIEWによる書籍を作成するまでに使用した様々なscriptを管理しています。
 
+このリポジトリに含まれるコードは、(一部を除き)NYSL Version 0.9982が適用されるものとします。
+詳細はLICENSE.txtをご一読ください。
+
+(ただし、`dumper.js`に関しては、参考元サイトのライセンス(※不明)に従うものとします。)
+
 ## find_fanbox_article_url.rb
 このscriptは、<https://www.pixiv.net/fanbox/manage/post/published>の内容から、pixivFANBOXに投稿した記事のリストをJSONで抽出します。
 
