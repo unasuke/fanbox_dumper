@@ -16,3 +16,6 @@
 
 ## adjust_appearance_blog.rb
 このscriptは、ブログ形式の投稿をRe:VIEW形式に変換した結果を正規表現を用いて整形します。
+
+## concat_review.rb
+このscriptは、pixivFANBOXの投稿をRe:VIEW形式に変換したもの(日ごとに1ファイル)を月毎に連結し、見出しを付加して保存します。
